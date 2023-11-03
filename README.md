@@ -7,7 +7,8 @@ Just Another Text Editor (J.A.T.E) is a Progressive Web Application (PWA) that r
 ## Table of Contents
 1. [Description](#description)
 2. [Table of Contents](#table-of-contents)
-4. [Installation](#installation)
+3. [Installation](#installation)
+4. [Screnshot](#screenshot)
 5. [License](#license)
 6. [Technologies Employed](#technologies-employed)
 7. [Future Development](#future-development)
@@ -25,6 +26,10 @@ To run J.A.T.E locally:
 2. Run ```npm i``` to install all dependencies
 3. Invoke application with ```npm run start```
 </br>
+
+## Screenshot
+![First Image](/images/text-editor1.png)
+![Second Image](/images/text-editor2.png)
 
 ## License
 This project is licensed under the MIT license.

@@ -6,7 +6,7 @@ Just Another Text Editor (J.A.T.E) is a Progressive Web Application (PWA) that r
 
 Repository Link: https://github.com/hyperlitz/Lito_Text-Editor
 
-Heroku Link: https://lito-txt-editor-e0def1ab22b1.herokuapp.com/
+Heroku Link: https://lito-txt-editor-4fab14a84e33.herokuapp.com/
 
 ## Table of Contents
 1. [Description](#description)

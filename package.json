@@ -1,16 +1,25 @@
 {
-  "name": "lito_text-editor",
+  "name": "JATE",
   "version": "1.0.0",
-  "description": "## Description",
+  "description": "",
   "main": "server.js",
   "scripts": {
-    "start:dev": "cd develop/server && npm run server && cd ../client && npm run dev",
-        "start": "npm run build && cd develop/server && node server.js",
-        "server": "cd develop/server nodemon server.js --ignore client",
-        "build": "cd develop/client && npm run build",
-        "install": "cd develop/server && npm i && cd ../client && npm i",
-        "client": "cd develop/client && npm start"
+    "start:dev": "",
+    "start": "nodemon server.js",
+    "server": "",
+    "build": "",
+    "install": "",
+    "client": ""
   },
+  "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "if-env": "^1.0.4"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.4"
+  }
 }
